@@ -1,0 +1,14 @@
+[
+    {
+        "body": "Aceasta este o postare existent\u0103",
+        "id": 1,
+        "title": "Prima postare",
+        "userId": 1
+    },
+    {
+        "body": "Aceasta este o postare creat\u0103 folosind un script POST.",
+        "id": 3,
+        "title": "Postare nou\u0103 din POST3.py",
+        "userId": 3
+    }
+]
